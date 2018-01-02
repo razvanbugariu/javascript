@@ -42,3 +42,5 @@ operateNTimes(10, print);
 function print(x) {
     console.log(x)
 }
+
+//Examples from: https://dev.to/danhomola/dont-pay-the-for-looptax
